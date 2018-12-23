@@ -4,7 +4,7 @@ This project aims to offer a step-by-step creation of a React Native project to 
 
 The project of this repository is configured as follows
 
-Assuming that you have already created the project with the react-native cli as described on the React Native page and the command terminal / command prompt is open in the project folder (Preference with VS Code integrated), follow these steps:
+Assuming that you have already created the project with the react-native cli as described on the [React Native page](https://facebook.github.io/react-native/docs/getting-started) and the command terminal / command prompt is open in the project folder (Preference with VS Code integrated), follow these steps:
 
 ## Disabling Typescript Lint for Workspace
 
